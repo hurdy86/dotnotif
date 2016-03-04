@@ -1,5 +1,4 @@
 importScripts('serviceworker-cache-polyfill.js');
-
 // example usage:
 self.addEventListener('install', function(event) {
   event.waitUntil(
